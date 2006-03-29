@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: Class-Date-ISO
+version: 0.01
+author:
+  - Chunzi <chunzi@cpan.org>
+abstract: make Class::Date output iso format like '2006-03-29T17:06:09'
+license: perl
+generated_by: Module::Build version 0.2611, without YAML.pm
